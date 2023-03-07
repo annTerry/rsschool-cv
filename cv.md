@@ -47,3 +47,32 @@ export default function priceManager() {
     }
 };
 ```
+*** 
+## Education
+* __2003-2009__ Saint-Petersburg State University of Aerospace Instrumentation
+    + Software for computing complexes and computer-aided systems
+    + Computer-aided systems of information processing and management
+* __1997 - 2002__ Saint-Petersburg State University of Water Communications
+    + Financial and Credit
+* __2001 - 2002__ MAOV. Web-developer course
+* __2022__ RS_School JavaScript/Front-end (position 216)
+* __2022__ RS_School NodeJS  (position 101)
+* __2023__ RS_School React (in progress)
+
+## Work Experience
+* __2008 - Present:__ Favor-IT, Web-developer
+    + [Cikv.ru in Web.archive](https://web.archive.org/web/20171002012320/http://cikv.ru/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%BE%D0%B4%D1%8B_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)
+* __2002 - 2008:__ DiscTrade, Content Manager
+    + [Site in Web.archive](https://web.archive.org/web/20060207015516/http://www.rightsite.ru/)
+
+## Some Projects
+* [Plants](https://rolling-scopes-school.github.io/annterry-JSFEPRESCHOOL2022Q4/plants/)
+* [Momentum](https://rolling-scopes-school.github.io/annterry-JSFEPRESCHOOL2022Q4/momentum/)
+
+## Languages:
+* English - Intermediate
+
+![ef cert](english.png)
+
+* Greek - Base
+* Russian - Native
